@@ -1,5 +1,9 @@
 # She-Who-Codes-Webpage
 
-Coding Club Webpage at CCSF - Fall 2018
+Webpage &middot; _CCSF, She Who Codes Club_ <br>
+<small>Sep 2018</small>
 
-Webpage Link: [https://bikaylee.github.io/She-Who-Codes/](https://bikaylee.github.io/She-Who-Codes/)
+As the treauser of She Who Codes club in City College of San Franciso, I redesigned the club webpage to promote our club. The webpage contains past events and upcoming events. It also includes the club contact information, meeting time, and mission.
+
+Website: [https://bikaylee.github.io/She-Who-Codes/](https://bikaylee.github.io/She-Who-Codes/) <br>
+Source Code: [https://github.com/bikaylee/She-Who-Codes](https://github.com/bikaylee/She-Who-Codes)
